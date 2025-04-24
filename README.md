@@ -1,4 +1,5 @@
-![chibi me](https://github.com/user-attachments/assets/7fbb7443-e308-4d51-82a3-244e90069aa7)<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>
+![image](https://github.com/user-attachments/assets/e811e4b0-7a09-44b4-9ac4-4b245bfdf770)
+<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>
 
 ###
 
