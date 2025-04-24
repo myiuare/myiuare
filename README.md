@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/888d043e-b905-4a2f-949d-387341f96884)<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>
+![image](https://github.com/user-attachments/assets/81f688fa-956d-4608-88ec-8ccc2aaed870)
+<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>
 
 
 ###
