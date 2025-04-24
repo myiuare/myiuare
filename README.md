@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/e811e4b0-7a09-44b4-9ac4-4b245bfdf770)
-<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>
+<h2 align="left">Hi 👋! My name is Sara and I'm a developer, from france.</h2>https://media1.giphy.com/media/lXxTIsrjKqzO2b0CAs/200w.gif?cid=6c09b952e3yfsv6177atzhxjecsfckcv50hg5fk8ce2iqj19&ep=v1_gifs_search&rid=200w.gif&ct=g
 
 ###
 
